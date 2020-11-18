@@ -8,7 +8,6 @@ Overview
   * [Use the application](#Use-the-application)
   * [How to install](#How-to-install)
   * [Contribute](#Contribute)
-  * [Technologies](#🛠-Technologies)
   
   
 # About
@@ -32,11 +31,6 @@ The application was deployed on Netlify and it is ready to [use](https://use-git
 3. Commit your changes `git commit -am 'Add some new feature'`
 4. Push to the branch `git push origin my-feature`
 5. Create a new Pull Request
-
-# 🛠 Technologies
-
-* [TypeScript](https://www.typescriptlang.org/) 
-* [React](https://pt-br.reactjs.org/)
 
 #### 🚧 Github Explorer 🚀 In progress... 🚧
 
