@@ -8,7 +8,7 @@ Overview
   * [Use the application](#Use-the-application)
   * [How to install](#How-to-install)
   * [Contribute](#Contribute)
-  * [Technologies](#Technologies)
+  * [Technologies](#🛠-Technologies)
   
   
 # About
