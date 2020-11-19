@@ -37,10 +37,10 @@ The application was deployed on Netlify and it is ready to [use](https://use-git
 ### Author
 ---
 
-<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/61708182?s=460&u=e3d31df35b1e4e8095aa2538a17a872e7e85bc6b&v=4" width="100px;" alt="" />
+<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/61708182?s=460&u=e3d31df35b1e4e8095aa2538a17a872e7e85bc6b&v=4" width="80px;" alt="" />
 
-<sub><b>Thayná Gitirana</b></sub>
+<sub><b>Thayná Luiza Gitirana</b></sub>
 
-Made with ❤️ by Thayná Gitirana
+Made with ❤️ by Thayná Luiza Gitirana
 
 [![Linkedin Badge](https://img.shields.io/badge/-@gitirana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gitirana/)](https://www.linkedin.com/in/gitirana/) [![Gmail Badge](https://img.shields.io/badge/-thaynalgc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thaynalgc@gmail.com)](mailto:thaynalgc@gmail.com)
